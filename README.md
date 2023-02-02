@@ -1,9 +1,8 @@
 - 👋 Hi, I’m Peter Peev
 - ⌚ I'm currently working as a Junior Software Engineer
-- 👀 I’m interested in Backend (Java, js, C#)
+- 👀 I’m interested in Java, Javascript, React and Rust just to name a few
 - 🌱 I’m currently learning the languages mentioned above
-- 💞️ I’m looking to collaborate on something basic
-- 📫 How to reach me peterpeev28@gmail.com
+- 📫 How to reach me - peterpeev28@gmail.com
 
 <!---
 PeterPeev28/PeterPeev28 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
