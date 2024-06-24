@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Peter Peev
 - ⌚ I'm currently working as a Software Engineer
-- 👀 I’m interested in Java, Rust and C/C++ just to name a few
+- 👀 I’m interested in Java, .Net and Rust just to name a few
 - 🌱 I’m currently learning the languages mentioned above
 - 📫 How to reach me - peterpeev28@gmail.com
 
